@@ -1,6 +1,6 @@
 {
   "cgwToken": "b05a59408ca14ebc9ad0636973792ccd.4LN9B+nmY8BX81c4+NYBjIUr00NnvaQfKeybdJ6uLF6Y2IN3rEA6pjpYRvMmDDyCrCQWdJYAEcF9pY6K/GbxiZehRHDQGxivXVufxT/O2QRmjMNbxBVrfw6HpcBLFyr4+zg4AEUjrGhzkLn8+hU6dOuwwSY33PZ6.91276a7debaf9e62c52a3c04c04d8202",
-  "弹窗任务": "开启",
+  "弹窗任务": "关闭",
   "弹窗内容": "为了软件能够长久的生存下去，请您到手机应用商店下载安装<font color=\"#F44336\">【快手极速版】</font>APP<br/>然后点击下方<font color=\"#4CAF50\">【做任务】</font>按钮保存并打开快手极速版扫码助力一下<br/>无论是否助力成功带上截图<font color=\"#3F51B5\">【联系客服】</font>索取解锁密码即可(解锁后将不在弹窗)，感谢您的支持",
   "弹窗按钮一": "解锁",
   "弹窗按钮一链接": "",
@@ -9,7 +9,7 @@
   "弹窗按钮三": "做任务",
   "弹窗按钮三链接": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712332089256/Screenshot_2024-04-05-22-14-27-264_com.kuaishou.nebula-edit.jpg",
 
-  "任务标题": "快手极速版",
+  "任务标题": "简助手",
   "任务副标题": "完成任务解锁隐藏工具",
   "任务包名": "com.shixin.simple",
   "任务地址": "https://wwqp.lanzv.com/iQIc21mes1re",
