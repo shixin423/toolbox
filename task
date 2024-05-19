@@ -1,24 +1,34 @@
 {
   "cgwToken": "b05a59408ca14ebc9ad0636973792ccd.4LN9B+nmY8BX81c4+NYBjIUr00NnvaQfKeybdJ6uLF6Y2IN3rEA6pjpYRvMmDDyCrCQWdJYAEcF9pY6K/GbxiZehRHDQGxivXVufxT/O2QRmjMNbxBVrfw6HpcBLFyr4+zg4AEUjrGhzkLn8+hU6dOuwwSY33PZ6.91276a7debaf9e62c52a3c04c04d8202",
   "弹窗任务": "关闭",
-  "弹窗内容": "为了软件能够长久的生存下去，请您点击<font color=\"#F44336\">【新人一分购】</font>按钮后并截图保存二维码<br/>然后打开<font color=\"#4CAF50\">【微信扫一扫】</font>扫描刚刚保存的图片，前往活动入口后，新用户可以0.01白嫖一件商品，老用户无视即可<br/>解锁密码就是<font color=\"#3F51B5\">【活动的标题】</font>，感谢您的支持",
+  "弹窗内容": "点击<font color=\"#F44336\">【新人一分购】</font>按钮后并截图保存<br/>然后打开<font color=\"#4CAF50\">【微信扫一扫】</font>刚刚保存的图片，新用户会显示立即下单，可以一分钱白嫖一件小商品<br/>解锁密码就是<font color=\"#3F51B5\">【这个活动的标题】</font><br/>不懂可以点击<font color=\"#007AFF\">【联系客服】</font>按钮获取答案，感谢您的支持",
   "弹窗按钮一": "解锁",
   "弹窗按钮一链接": "",
   "弹窗按钮二": "联系客服",
   "弹窗按钮二链接": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706843295283/mmqrcode1706843280118.png",
   "弹窗按钮三": "新人一分购",
   "弹窗按钮三链接": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713415335974/mmexport1713415323173.jpg",
-  "任务标题": "一分钟永久解锁",
+  "任务标题": "快手-极速版",
   "任务副标题": "完成任务解锁隐藏工具",
-  "任务包名": "com.shixin.simple",
-  "任务地址": "https://wwqp.lanzv.com/iQIc21mes1re",
+  "任务包名": "com.kuaishou.nebula",
+  "任务地址": "https://vuu9n.evmcsotdr.com/land-pages/red-packet?cc=share_wxms&kpf=ANDROID_PHONE&fid=1555887707&code=218574420&shareMethod=picture&kpn=NEBULA&subBiz=INVITE_CODE&shareId=17905359365985&shareToken=Y890ZncF1&traceDetail=c1_s9_a5.e6.p0c4ae1aa-1a5f-4407-afd6-2907ed0b5ce2.f1.1555887707.0.0_os9&curAwardAmount=500&platform=weixin&ccFrom=f2f_mask&shareMode=app&pageType=RADICAL_WECHAT_UNLOCK&curActivityName=BASE_AWARD&pvid=0c4ae1aa-1a5f-4407-afd6-2907ed0b5ce2&spv=flTwWZUklhRMLCPs%2FnoEkjEIQaFLmI8qaW%2FoHQqoddBBwD3sHzaA43gUL5EDybL%2B&shareObjectId=218574420",
   "任务图标": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1694197944751/1694197469004.png",
-  "任务答案": "aa51cf098ecb33bc0377",
+  "任务答案": "a12cc574e6cd",
   "任务步骤": [
     {
-      "标题": "温馨提示",
-      "内容": "目前没有任务，密码是【牛牛赚大钱】",
-      "图片": ""
+      "标题": "步奏一",
+      "内容": "通过上方按钮或者应用商店下载【快手极速版】",
+      "图片": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715888764777/Screenshot_2024-05-17-03-43-10-81_9d6ca196173956b012958210db5a71fe.jpg"
+    },
+    {
+      "标题": "步奏二",
+      "内容": "截图保存二维码，打开快手极速版扫一扫，助力一下",
+      "图片": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716087387866/Screenshot_2024-05-19-10-50-05-97_40d30947b37419455897df6aa3094b56.jpg"
+    },
+    {
+      "标题": "步奏三",
+      "内容": "输入图中遮挡住的【三个字】就是任务答案",
+      "图片": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716087573988/IMG_20240519_105923.jpg"
     }
   ]
 }
